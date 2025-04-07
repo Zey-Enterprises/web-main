@@ -5,8 +5,8 @@ search: false
 
 @charset "utf-8";
 
-// @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes/skins/air"; // this needs to be manually kept in sync with _config.yml minimal_mistakes_skin
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+// @import "minimal-mistakes/skins/air"; // this needs to be manually kept in sync with _config.yml minimal_mistakes_skin
 
 // Match visited link color to normal link color
 $link-color-visited: $link-color;
