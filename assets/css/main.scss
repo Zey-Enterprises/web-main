@@ -1,0 +1,112 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+
+// Match visited link color to normal link color
+$link-color-visited: $link-color;
+
+@import "minimal-mistakes"; // main partials
+
+// === Card Grid Container ===
+
+.feature__wrapper {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.25rem;
+  margin-top: 2rem;
+  justify-content: center;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+// === Individual Card ===
+
+.feature__item {
+  background-color: var(--mm-color-bg-alt);
+  border: 1px solid var(--mm-color-border);
+  border-radius: 0.75rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease, transform 0.3s ease, background-color 0.3s ease;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-sizing: border-box;
+  cursor: pointer;
+
+  // Ensure items behave well in the grid
+  width: 100%;
+  max-width: none;
+  min-width: 0;
+  overflow: visible;
+  flex: 1 1 auto;
+}
+
+.feature__item:hover {
+    background-color: var(--mm-color-bg-alt-hover, var(--mm-color-bg-alt));
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3) !important;
+    transform: translateY(-4px) !important;
+  }
+  
+
+// === Make Entire Card Clickable and Preserve Style ===
+
+.feature__item-link {
+  display: block;
+  height: 100%;
+  text-decoration: none !important;
+  color: inherit !important;
+
+  h3,
+  p,
+  .archive__item-title,
+  .archive__item-excerpt {
+    text-decoration: none !important;
+    color: inherit !important;
+    white-space: normal !important;
+    overflow-wrap: break-word !important;
+    text-overflow: unset !important;
+  }
+}
+
+// === Text Styling ===
+
+.feature__item-link .archive__item-title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  line-height: 1.4;
+  margin: 1rem 0 0.75rem 0;
+}
+
+.feature__item-link .archive__item-excerpt {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  margin: 0;
+  color: var(--mm-color-text);
+}
+
+// === Prevent sidebar from dimming ===
+
+.sidebar {
+  opacity: 1 !important;
+  transition: none !important;
+}
+
+
+// === Custom layout width for single-wide ===
+body.layout--single-wide .page {
+  max-width: 1200px !important;
+  padding-right: 0 !important;
+}
+
+body.layout--single-wide .page__inner-wrap {
+  width: 100% !important;      // Force it to stretch across the container
+}
+

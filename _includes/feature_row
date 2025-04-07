@@ -1,0 +1,20 @@
+{% assign feature_row = page.feature_row %}
+<div class="feature__wrapper">
+  {% for feature in feature_row %}
+    <div class="feature__item">
+      <a href="{{ feature.url | relative_url }}" class="feature__item-link"{% if feature.new_tab %} target="_blank" rel="noopener"{% endif %}>
+        {% if feature.image_path %}
+          <div class="archive__item-teaser">
+            <img src="{{ feature.image_path | relative_url }}" alt="{{ feature.alt }}">
+          </div>
+        {% endif %}
+        <div class="feature__content">
+          <h3 class="archive__item-title">{{ feature.title }}</h3>
+          {% if feature.excerpt %}
+            <p class="archive__item-excerpt">{{ feature.excerpt }}</p>
+          {% endif %}
+        </div>
+      </a>
+    </div>
+  {% endfor %}
+</div>
