@@ -19,13 +19,13 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.2  # or match your `.ruby-version`
+          ruby-version: '3.1' # or whatever version your Gemfile uses
           bundler-cache: true
 
       - name: Install dependencies
         run: bundle install
 
-      - name: Build site with Jekyll
+      - name: Build the site
         run: bundle exec jekyll build
 
       - name: Upload artifact
