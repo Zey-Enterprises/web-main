@@ -116,9 +116,15 @@ footer:
     # - label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
     #  url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/arthurzey"
     - label: "Messenger"
       icon: "fab fa-fw fa-facebook-messenger"
       url: "https://m.me/ArthurZey"
+    - label: "arthur@zeyenterprises.com"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:arthur@zeyenterprises.com"
 
 defaults:
   # _posts
