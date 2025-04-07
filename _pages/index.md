@@ -1,4 +1,5 @@
 ---
+title: Home
 permalink: /
 layout: splash
 feature_row:
