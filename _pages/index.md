@@ -6,7 +6,7 @@ feature_row:
   - image_path: /assets/images/integrated-fitness-coaching-logo.png
     alt: "Integrated Fitness Coaching"
     title: "Integrated Fitness Coaching"
-    excerpt: "Science-backed guidance for nutrition, exercise, mindfulness, and relationships"
+    excerpt: "Science-backed guidance for nutrition, exercise, mindfulness, relationships, and philosophy"
     url: "/integrated-fitness-coaching/"
     # new_tab: true
 
