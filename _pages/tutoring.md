@@ -7,9 +7,8 @@ layout: splash
 
 # {{ page.title }}
 
-If you're looking for one-on-one math tutoring that's tailored to your needs and actually makes sense, you're in the right place. I specialize in high school math--everything from Algebra I through Pre-Calculus. Whether you're stuck on factoring, confused by functions, or just need someone to help you make sense of what’s going on in class, I’m here to help.
+If you're looking for one-on-one math tutoring that's tailored to your needs and actually makes sense, you're in the right place. I specialize in high school math--everything from Algebra I through Pre-Calculus. Whether you're stuck on factoring, confused by functions, or just need someone to help you make sense of what's going on in class, I'm here to help.
 
-## About Me
 
 I graduated *summa cum laude* in Mathematics of Computation from UCLA in 2005. But my love for math started way earlier than that--I was the kind of nerd who started Pre-Calculus in 7th grade, and I still watch math YouTube videos for fun.
 

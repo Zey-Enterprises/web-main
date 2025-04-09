@@ -11,9 +11,9 @@ Whether you need help setting up your home network, troubleshooting devices, or 
 
 With a background as a former network administrator, I've built and managed complex systems—including configuring multiple concurrent internet connections to enhance reliability and performance for mission-critical operations in a remote mountain setting--and have years of experience resolving a wide range of technical issues. Seriously--I was that kid, who, at 8 years old, was helping neighbors with their computers! I also build and maintain websites, assist with domain setup and configuration, and help ensure smooth operation of both hardware and software systems.
 
-This isn’t just a job for me--it’s a passion. I’ve been the go-to tech person in my circles for years, helping family and friends with ad hoc needs, developing custom tools for businesses,  taking initiative in my workplaces to improve processes (by refining existing tools, integrating better systems, and building new ones from scratch), designing websites, taking on nerdy projects to optimize my own digital life, and even supporting my parents' business with Google Workspace, Dropbox for Teams, and other technical needs.
+This isn't just a job for me--it's a passion. I've been the go-to tech person in my circles for years, helping family and friends with ad hoc needs, developing custom tools for businesses,  taking initiative in my workplaces to improve processes (by refining existing tools, integrating better systems, and building new ones from scratch), designing websites, taking on nerdy projects to optimize my own digital life, and even supporting my parents' business with Google Workspace, Dropbox for Teams, and other technical needs.
 
-Whether you need help choosing and setting up new devices, configuring email and cloud services, streamlining your business’s digital workflows, or just getting your wifi to work reliably, I'm here to help you find a solution that works.
+Whether you need help choosing and setting up new devices, configuring email and cloud services, streamlining your business's digital workflows, or just getting your wifi to work reliably, I'm here to help you find a solution that works.
 
 ## Services Offered
 
