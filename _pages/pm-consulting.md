@@ -41,9 +41,11 @@ Get in touch to discuss how I can support your product goals.
 
 ## Pricing
 
-Product management and user experience consulting services start at $200/hour, delivered remotely.
+Product management and user experience consulting services start at **$200/hour**, delivered remotely.
 
 Pricing varies based on scope and engagement type (eg, strategic guidance and analyses, artifact review and creation, hands-on product planning, UX audits, stakeholder facilitation). Retainers and project-based fees are also available for longer-term work or larger initiatives.
+
+[Contact me](/contact/) to see if I can help with your product needs!
 
 
 

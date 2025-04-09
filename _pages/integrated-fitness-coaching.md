@@ -28,7 +28,7 @@ Whatever your starting point, I'm here to support your evolution.
 
 ## Pricing
 
-Coaching rates start at $100/hour, with tailored packages available depending on your goals, the level of support you're looking for, and how we work together (in-person, remote, or a combination of both).
+Coaching rates start at **$100/hour**, with tailored packages available depending on your goals, the level of support you're looking for, and how we work together (in-person, remote, or a combination of both).
 
 Some clients prefer weekly sessions with clear structure. Others opt for a flat monthly rate that includes asynchronous messaging and occasional live check-ins. I'll work with you to find a format that best fits your needs, preferences, and budget.
 

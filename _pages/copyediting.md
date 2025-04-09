@@ -17,23 +17,25 @@ Whether it's technical writing, marketing copy, or high-stakes documents like gr
 
 ## What I Offer
 
-- **Copyediting**: grammar, punctuation, word choice, clarity, and style consistency
-- **Line Editing**: sentence-level improvements for tone, flow, and readability
-- **Structural Feedback**: suggestions for improving organization and impact
-- **Collaborative Rewriting**: help refining your own drafts while maintaining your voice
-- **Specialized Content Support**: experience with technical, academic, marketing, and product documentation
+* **Copyediting**: grammar, punctuation, word choice, clarity, and style consistency
+* **Line Editing**: sentence-level improvements for tone, flow, and readability
+* **Structural Feedback**: suggestions for improving organization and impact
+* **Collaborative Rewriting**: help refining your own drafts while maintaining your voice
+* **Specialized Content Support**: experience with technical, academic, marketing, and product documentation
 
-If you're looking for someone who obsesses over em-dashes, serial commas, and dangling modifiers so you don't have to--I'm your guy.
+If you're looking for someone who obsesses over em-dashes, serial commas, and dangling modifiers _and_ can help you to make your writing well structured, clear, and coherent--I'm your guy.
 
 Let's make your writing shine.
 
 ## Pricing
 
 Copyediting projects are billed based on word count and editing depth. Rates start at
-* $0.05 per word for light editing (grammar, punctuation, clarity)
-* $0.10 per word for more involved editing (tone, structure, stylistic improvement)
-* $0.15+ per word for substantive, developmental editing (revisions to argument flow, clarity of ideas, and overall structure)
+* **$0.05 per word** for light editing (grammar, punctuation, clarity)
+* **$0.10 per word** for more involved editing (tone, structure, stylistic improvement)
+* **$0.15+ per word** for substantive, developmental editing (revisions to argument flow, clarity of ideas, and overall structure)
 
-Minimum project fee: $100
+Minimum project fee: **$100**
 
-If you're not sure what level of editing you need, send me a short sample, and I'll assess it and provide a quote.
+If you're not sure what level of editing you need, [send me](/contact/) a short sample, and I'll assess it and provide a quotation.
+
+Do you need something else that's thematically related, like help with actually writing documents or reviewing grant proposals? Feel free to [inquire](/contact/), and let's find out if I can help!

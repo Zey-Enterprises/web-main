@@ -17,19 +17,19 @@ Beyond my own interview experience, I've helped numerous candidates refine their
 
 ## What I Offer
 
-- **Resume Review**: in-depth feedback on structure, language, formatting, and strategic content to align with your goals
-- **Interview Preparation**:
-  - behavioral (eg, "Tell me about a time when...")
-  - technical problem-solving
-  - functional and communication skills
-  - mock interviews with detailed feedback
-- **Hiring Process Insight**: learn how hiring decisions are actually made at companies like Amazon
+* **Resume Review**: in-depth feedback on structure, language, formatting, and strategic content to align with your goals
+* **Interview Preparation**:
+  * behavioral (eg, "Tell me about a time when...")
+  * technical problem-solving
+  * functional and communication skills
+  * mock interviews with detailed feedback
+* **Hiring Process Insight**: learn how hiring decisions are actually made at companies like Amazon
 
 Whether you're preparing for your first job out of school or trying to level up into a senior or leadership role, I tailor my coaching to your unique background and ambitions.
 
 ## Pricing
 
-My rate for career coaching--including interview preparation, job search strategy, and general professional development--is $150/hour. Sessions are held remotely via video or voice call.
+My rate for career coaching--including interview preparation, job search strategy, and general professional development--is **$150/hour**. Sessions are held remotely via video or voice call.
 
 I also offer flat-rate packages for résumé review and related services:
 
@@ -44,7 +44,7 @@ Services include
 
 ### Detailed Line-by-Line Edit: $250
 
-A deep edit focused on language, structure, and how effectively your résumé showcases your strengths and achievements, this is ideal for résumés that need some brushing up and optimization.
+A deep review focused on language, structure, and how effectively your résumé showcases your strengths and achievements, this is ideal for résumés that need some brushing up and optimization.
 
 Services include
 * full line-by-line comments and edits

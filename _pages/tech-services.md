@@ -15,7 +15,7 @@ This isn't just a job for me--it's a passion. I've been the go-to tech person in
 
 Whether you need help choosing and setting up new devices, configuring email and cloud services, streamlining your business's digital workflows, or just getting your wifi to work reliably, I'm here to help you find a solution that works.
 
-## Services Offered
+## What I Offer
 
 - **Wifi and Network Setup**: Optimize performance, coverage, and reliability.
 - **Device Troubleshooting**: Solve issues with laptops, printers, phones, and more.
@@ -29,9 +29,11 @@ If you've got a tech headache or just want things to work better, I can help.
 ## Pricing
 
 Rates for tech services vary depending on the type, complexity, and delivery method (remote or in-person). Typical rates start at
-* $100/hour for personal or home tech support
-* $150/hour for business tech consulting
+* **$100/hour** for personal or home tech support
+* **$150/hour** for business tech consulting
 
 For larger or ongoing projects, I offer project-based pricing and retainer options.
 
 In-person support may incur additional travel charges, depending on location.
+
+[Contact me](/contact/) to find out if I can help with your tech needs!
