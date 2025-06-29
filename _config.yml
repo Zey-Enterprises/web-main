@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Zey Enterprises
+
 copyright: Zey Enterprises, LLC
 logo: "/assets/images/ze-logo-344.png"
 title_separator: "|"
@@ -22,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Arthur Zey's independent practice offering high-impact services in tech, education, and wellness--driven by clarity, precision, principled execution, results.
 
 twitter_username: username
-github_username: username
+github_username: zey-enterprises
 minimal_mistakes_skin: air
 search: true
 

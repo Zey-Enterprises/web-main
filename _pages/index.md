@@ -54,3 +54,5 @@ Clarity. Rigor. Integrity. Real-world results.
 {% include feature_row %}
 
 Looking for something else? [Contact me](/contact/) to see if it might be a good fit.
+
+<p>Analytics provider: {{ site.analytics.provider | inspect }}</p>
