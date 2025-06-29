@@ -54,8 +54,3 @@ Clarity. Rigor. Integrity. Real-world results.
 {% include feature_row %}
 
 Looking for something else? [Contact me](/contact/) to see if it might be a good fit.
-
-<p>jekyll.environment (should be 'production'): {{ jekyll.environment | inspect }}</p>
-<p>site.analytics.provider (should be 'google-gtag'): {{ site.analytics.provider | inspect }}</p>
-<p>page.analytics (should not be 'false'): {{ page.analytics | inspect }}</p>
-<p><b><i>if jekyll.environment == 'production' and site.analytics.provider and page.analytics != false</i></b> is {% if jekyll.environment == 'production' and site.analytics.provider and page.analytics != false %}true{%  else %}false{% endif %}
