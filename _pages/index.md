@@ -10,11 +10,11 @@ feature_row:
     url: "/integrated-fitness-coaching/"
     # new_tab: true
 
-  - image_path: /assets/images/tutoring.png
-    alt: "Math Tutoring"
-    title: "Math Tutoring"
-    excerpt: "Clear, patient instruction in math up to Pre-Calculus"
-    url: "/tutoring/"
+  - image_path: /assets/images/summit-light-learning.png
+    alt: "Summit Light Learning"
+    title: "Summit Light Learning"
+    excerpt: "Clear, patient tutoring in math up to Pre-Calculus"
+    url: "/summit-light-learning/"
 
   - image_path: /assets/images/career-coaching.png
     alt: "Résumé Review & Interview Prep"
@@ -28,11 +28,11 @@ feature_row:
     excerpt: "Sharpen your writing with clear, intelligent editing"
     url: "/copyediting/"
 
-  - image_path: /assets/images/tech-services-2.png
-    alt: "Personal & Professional Tech Services"
-    title: "Personal & Professional Tech Services"
-    excerpt: "Home and office networking, computer setup, troubleshooting, and more"
-    url: "/tech-services/"
+  - image_path: /assets/images/altus-tech-services.png
+    alt: "Altus Tech Services"
+    title: "Altus Tech Services"
+    excerpt: "Home and office networking, computer setup, SMB solutions, troubleshooting, and more"
+    url: "/altus-tech-services/"
 
   - image_path: /assets/images/pm-consulting.png
     alt: "Product Management Consulting"

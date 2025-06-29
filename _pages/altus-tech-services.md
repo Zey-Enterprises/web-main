@@ -1,5 +1,5 @@
 ---
-title: Personal and Professional Technical Services
+title: Altus Tech Services
 layout: splash
 ---
 

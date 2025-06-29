@@ -1,5 +1,5 @@
 ---
-title: Math Tutoring
+title: Summit Light Learning
 layout: splash
 ---
 
